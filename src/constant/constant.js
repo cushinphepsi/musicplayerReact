@@ -6,3 +6,4 @@ export const PREV_MUSIC = 'PREV_MUSIC'
 export const RANDOM_MUSIC = 'RANDOM_MUSIC'
 export const REPEAT_MUSIC = 'REPEAT_MUSIC'
 export const CHOOSE_MUSIC = 'CHOOSE_MUSIC'
+// kok
